@@ -42,5 +42,6 @@ To install all the required dependencies, run the command
 
 ```sh
 pip install -r requirements.txt
+```
 
 [Still working on the rest of the READ.md![
