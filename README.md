@@ -35,4 +35,11 @@ To experiment with the code in this repository, you can clone the repository to 
 ```sh
 git clone https://github.com/yourusername/math158-learning.git
 
-Also, make sure that you have Python installed .... [Still working on the rest of the READ.md![
+Also, make sure that you have Python installed ....
+
+To install all the required dependencies, run the command
+
+```sh
+pip install -r requirements.txt
+
+[Still working on the rest of the READ.md![
