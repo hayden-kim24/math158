@@ -34,6 +34,7 @@ To experiment with the code in this repository, you can clone the repository to 
 
 ```sh
 git clone https://github.com/yourusername/math158-learning.git
+```
 
 Also, make sure that you have Python installed ....
 
