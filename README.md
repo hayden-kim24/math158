@@ -1,6 +1,6 @@
 # Math 158 Learning Repository
 
-Welcome to my Math 158 learning repository! In this repository, you can find all the functions and classes I've written in Python based on the materials I learned from "Math 158: Probability and Stochastic Differential Equations for Applications (CME 298)" for Spring Quarter, 2024 @ Stanford University.
+Welcome to my Math 158 learning repository! In this repository, you can find all the functions and classes I've written in Python based on the materials I learned from "Math 158: Probability and Stochastic Differential Equations for Applications (CME 298)" for Spring Quarter, 2024 @ Stanford University. Please note that this is my independent project -- other than the code ising.py (which was submitted as the bonus component of pset 6), the rest is just me having fun with the material I learned.
 
 
 ## Table of Contents
