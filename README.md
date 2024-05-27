@@ -47,3 +47,5 @@ pip install -r requirements.txt
 [Still working on the rest of the READ.md![
 
 +learned about Ising Model & Markov Chains from CS 221: Artificial Intelligence: Principles and Techniques (Spr '24). Reminder to add more code!
++omg we are learning about gibbs sampling too in cs221? to-do: gibbs sampling.py
+Anticipated project date: 6/14-6/18
