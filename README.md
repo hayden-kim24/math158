@@ -45,3 +45,5 @@ pip install -r requirements.txt
 ```
 
 [Still working on the rest of the READ.md![
+
++learned about Ising Model & Markov Chains from CS 221: Artificial Intelligence: Principles and Techniques (Spr '24). Reminder to add more code!
